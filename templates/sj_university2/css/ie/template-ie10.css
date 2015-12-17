@@ -1,0 +1,47 @@
+#k2Container .itemList .itemContainer.col-sm-12 .catItemView .catItemImageBlock {
+  width: 40%;
+  float: left;
+  display: inline-block;
+  z-index: 2;
+}
+#k2Container .itemList .itemContainer.col-sm-12 .catItemView .main-item {
+  width: 55%;
+  float: left;
+  display: inline-block;
+  z-index: 1;
+}
+#k2Container .itemList .itemContainer.col-sm-12 .catItemView .module.k2-slider-style-one .modcontent .sj-k2-container-slider .slider .item .item-wrap .item-img .item-img-info .over-image {
+  display: none;
+}
+#k2Container .itemList .itemContainer.col-sm-12 .catItemView .module.k2-mega-new-main .modcontent .sj-meganew .item-first .item-image .over-image {
+  display: none;
+}
+#k2Container .itemList .itemContainer.col-sm-12 .catItemView #k2Container .itemList .itemContainer.col-sm-12 .catItemView .catItemImageBlock .over-image,
+#k2Container .itemList .itemContainer.col-sm-12 .catItemView #k2Container .itemList .itemContainer.col-sm-6 .catItemView .catItemImageBlock .over-image,
+#k2Container .itemList .itemContainer.col-sm-12 .catItemView #k2Container .itemList .itemContainer.col-sm-4 .catItemView .catItemImageBlock .over-image,
+#k2Container .itemList .itemContainer.col-sm-12 .catItemView #k2Container .itemList .itemContainer.col-sm-3 .catItemView .catItemImageBlock .over-image,
+#k2Container .itemList .itemContainer.col-sm-12 .catItemView #k2Container.latestView .itemList .catItemView .catItemImageBlock .over-image,
+#k2Container .itemList .itemContainer.col-sm-12 .catItemView #k2Container.userView .itemList .catItemView .catItemImageBlock .over-image,
+#k2Container .itemList .itemContainer.col-sm-12 .catItemView #k2Container.tagView .itemList .catItemView .catItemImageBlock .over-image {
+  display: none;
+}
+.rtl .article-header,
+.rtl h3.modtitle,
+.rtl .tab,
+.rtl h2.basicnews-title,
+.rtl .acd-header,
+.rtl h3.related-title,
+.rtl h3.related-item-title,
+.rtl .page-header,
+.rtl .carousel-caption h4,
+.rtl a.more,
+.rtl .bsn-wrap h2,
+.rtl .item-title {
+  font-family: "arial";
+}
+.rtl #k2Container .itemList .itemContainer.col-sm-12 .catItemView .catItemImageBlock {
+  float: right;
+}
+.rtl #k2Container .itemList .itemContainer.col-sm-12 .catItemView .main-item {
+  float: right;
+}
